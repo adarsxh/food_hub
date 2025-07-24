@@ -35,13 +35,13 @@ This project involves end-to-end exploratory data analysis (EDA) on a food deliv
 ## 🚀 How to Run
 
 1. Clone the repo  
-   `git clone https://github.com/your-username/food-delivery-analysis.git`
+   `git clone https://github.com/adarsxh/food_hub.git`
 
 2. Install dependencies  
    `pip install -r requirements.txt`
 
 3. Open the notebook  
-   `jupyter notebook notebooks/eda_food_delivery.ipynb`
+   `jupyter notebook notebooks/foodhub.ipynb`
 
 ## 📌 Future Scope
 
