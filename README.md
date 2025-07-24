@@ -16,3 +16,44 @@ This project involves end-to-end exploratory data analysis (EDA) on a food deliv
 
 ## 📁 Project Structure
 
+├── data/
+│ └── food_delivery_data.csv
+├── notebooks/
+│ └── eda_food_delivery.ipynb
+├── visuals/
+│ └── plots and charts
+├── README.md
+└── requirements.txt
+
+
+## 🛠️ Tools Used
+
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- Jupyter Notebook
+- Git/GitHub
+
+## 🚀 How to Run
+
+1. Clone the repo  
+   `git clone https://github.com/your-username/food-delivery-analysis.git`
+
+2. Install dependencies  
+   `pip install -r requirements.txt`
+
+3. Open the notebook  
+   `jupyter notebook notebooks/eda_food_delivery.ipynb`
+
+## 📌 Future Scope
+
+- Predictive modeling for delivery time estimation  
+- Customer segmentation using clustering  
+- Recommendation system for restaurants or cuisines
+
+## 📬 Contact
+
+For queries or collaborations, feel free to reach out at [adarsxh.iitkgp@gmail.com](mailto:adarsxh.iitkgp@gmail.com).
+
+---
+
+
+
